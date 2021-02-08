@@ -60,7 +60,7 @@ namespace lab_3
                 return cgpa; 
             }
         }
-        public Student(string name, string id, string department, float cgpa) //constructor with 3 parameter
+        public Student(string name, string id, string department, float cgpa)
         {
             this.name = name;
             this.id = id;
