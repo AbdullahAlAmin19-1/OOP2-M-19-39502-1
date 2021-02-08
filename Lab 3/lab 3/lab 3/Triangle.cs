@@ -8,54 +8,70 @@ namespace lab_3
 {
     class Triangle
     {
-        int x; //Member fileds as by default private
+        int x; 
         int y;
         int z;
 
-        //properties
         public int X
         {
-            set { x = value; }
-            get { return x; }
+            set 
+            {
+                x = value; 
+            }
+            get 
+            { 
+                return x; 
+            }
         }
 
         public int Y
         {
-            set { y = value; }
-            get { return y; }
+            set 
+            { 
+                y = value; 
+            }
+            get 
+            { 
+                return y; 
+            }
         }
 
         public int Z
         {
-            set { z = value; }
-            get { return z; }
+            set 
+            { 
+                z = value; 
+            }
+            get 
+            { 
+                return z; 
+            }
         }
 
         public Triangle(int x, int y, int z)
         {
-
-            Console.WriteLine("Constructor with 3 parameter");
             this.x = x;
             this.y = y;
             this.z = z;
         }
 
-        public void TestTriangle() //method
+        public void TestTriangle() 
         {
             if (x == y && y == z)
             {
-                Console.WriteLine("The triangle is equilateral");
+                Console.WriteLine("The triangle is Equilateral.");
             }
 
             else if (x == y || y == z || x == z)
             {
-                Console.WriteLine("The triangle is isosceles");
+                Console.WriteLine("The triangle is Isosceles.");
             }
 
             else
             {
-                Console.WriteLine("The triangle is scalene");
+                Console.WriteLine("The triangle is Scalene.");
             }
+            Console.WriteLine();
         }
     }
 }
