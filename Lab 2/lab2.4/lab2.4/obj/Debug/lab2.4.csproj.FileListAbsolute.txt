@@ -4,3 +4,6 @@ D:\Versity\7th Semester\OBJECT ORIENTED PROGRAMMING 2 [M]\Code\lab\lab2.4\lab2.4
 D:\Versity\7th Semester\OBJECT ORIENTED PROGRAMMING 2 [M]\Code\lab\lab2.4\lab2.4\bin\Debug\lab2.4.pdb
 D:\Versity\7th Semester\OBJECT ORIENTED PROGRAMMING 2 [M]\Code\lab\lab2.4\lab2.4\obj\Debug\lab2.4.exe
 D:\Versity\7th Semester\OBJECT ORIENTED PROGRAMMING 2 [M]\Code\lab\lab2.4\lab2.4\obj\Debug\lab2.4.pdb
+D:\Versity\7th Semester\OBJECT ORIENTED PROGRAMMING 2 [M]\Code\Lab 2\lab2.4\lab2.4\bin\Debug\lab2.4.exe.config
+D:\Versity\7th Semester\OBJECT ORIENTED PROGRAMMING 2 [M]\Code\Lab 2\lab2.4\lab2.4\obj\Debug\lab2.4.exe
+D:\Versity\7th Semester\OBJECT ORIENTED PROGRAMMING 2 [M]\Code\Lab 2\lab2.4\lab2.4\obj\Debug\lab2.4.pdb

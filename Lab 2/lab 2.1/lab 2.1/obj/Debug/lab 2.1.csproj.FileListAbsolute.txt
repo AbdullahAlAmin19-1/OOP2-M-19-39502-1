@@ -4,3 +4,6 @@ D:\Versity\7th Semester\OBJECT ORIENTED PROGRAMMING 2 [M]\Code\lab\lab 2.1\lab 2
 D:\Versity\7th Semester\OBJECT ORIENTED PROGRAMMING 2 [M]\Code\lab\lab 2.1\lab 2.1\obj\Debug\lab 2.1.csprojResolveAssemblyReference.cache
 D:\Versity\7th Semester\OBJECT ORIENTED PROGRAMMING 2 [M]\Code\lab\lab 2.1\lab 2.1\obj\Debug\lab 2.1.exe
 D:\Versity\7th Semester\OBJECT ORIENTED PROGRAMMING 2 [M]\Code\lab\lab 2.1\lab 2.1\obj\Debug\lab 2.1.pdb
+D:\Versity\7th Semester\OBJECT ORIENTED PROGRAMMING 2 [M]\Code\Lab 2\lab 2.1\lab 2.1\bin\Debug\lab 2.1.exe.config
+D:\Versity\7th Semester\OBJECT ORIENTED PROGRAMMING 2 [M]\Code\Lab 2\lab 2.1\lab 2.1\obj\Debug\lab 2.1.exe
+D:\Versity\7th Semester\OBJECT ORIENTED PROGRAMMING 2 [M]\Code\Lab 2\lab 2.1\lab 2.1\obj\Debug\lab 2.1.pdb
