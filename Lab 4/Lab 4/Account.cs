@@ -49,14 +49,12 @@ namespace Lab_4
         {
             balance = balance - amount;
             Console.WriteLine("Money Withdraw Completed.");
-            Console.WriteLine();
         }
         public void Transfer (int amount, Account acc)
         {
             balance = balance - amount;
             acc.Balance = acc.Balance + amount;
             Console.WriteLine("Balance Transfered.");
-            Console.WriteLine();
         }
     }
 }

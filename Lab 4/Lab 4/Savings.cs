@@ -10,29 +10,24 @@ namespace Lab_4
     {
         int minBalance = 430;
         public Savings(){}
-        public Savings(string accName, string accid, int balance):base (accName, accid, balance)
-        {
-            //this.AccName = accName;
-            //this.Accid = accid;
-            //this.Balance = balance;
-        }
+        public Savings(string accName, string accid, int balance):base (accName, accid, balance){}
 
         new public void Withdraw(int amount)
         {
-            if (amount > minBalance)
+            if ((base.Balance - amount) >= minBalance)
                 base.Withdraw(amount);
             else
-                Console.WriteLine("Insaficient Balance.");
+                Console.WriteLine("Insaficient Balance.");Console.WriteLine();
         }
 
         new public void Deposit(int amount){ base.Deposit(amount); }
 
-        new public void Transfer (int amount, Account acc)
+        new public void Transfer(int amount, Account acc)
         {
-            if (amount > minBalance)
-                base.Transfer (amount,acc);
+            if ((base.Balance - amount) >= minBalance)
+                base.Transfer(amount, acc);
             else
-                Console.WriteLine("Insaficient Balance.");
+                Console.WriteLine("Insaficient Balance."); Console.WriteLine();
         }
     }
 }
