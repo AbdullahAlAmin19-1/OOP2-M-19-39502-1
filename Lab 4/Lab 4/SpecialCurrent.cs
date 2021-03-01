@@ -8,13 +8,13 @@ namespace Lab_4
 {
     class SpecialCurrent : Account
     {
-        int openingBalabce, minBalance;
+        int openingBalance, minBalance;
 
         public SpecialCurrent(){}
         public SpecialCurrent(string accName, string accid, int balance) : base(accName, accid, balance) 
         {
-            openingBalabce = balance;
-            minBalance = (openingBalabce*10)/100;
+            openingBalance = balance;
+            minBalance = (openingBalance*10)/100;
         }
 
         new public void Withdraw(int amount)
