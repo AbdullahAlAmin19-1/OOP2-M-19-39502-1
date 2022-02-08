@@ -15,8 +15,8 @@ namespace lab_2._1
             int n = int.Parse(Console.ReadLine());
             Console.WriteLine("Even Numbers: ");
             for (i = 1; i <= n; i++)
-            { 
-                if( i%2 == 0 ) { Console.Write(i + "\n"); } 
+            {
+                if (i % 2 == 0) { Console.Write(i + "\n"); }
             }
         }
     }

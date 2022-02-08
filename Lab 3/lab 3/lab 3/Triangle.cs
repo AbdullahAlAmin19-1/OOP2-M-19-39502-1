@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace lab_3
 {
-    class Triangle
+    public class Triangle
     {
         int x; 
         int y;
